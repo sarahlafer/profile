@@ -12,7 +12,7 @@ h2,
 h3 {
   color: #D52941;
   font-family: 'PT Serif', serif;
-  font-weight: 5500;
+  font-weight: 400;
 }
 
 h1 {
@@ -37,7 +37,7 @@ a {
 
 
 a:hover {
-  color: #990D35;
+  color: #D52941;
 }
 
 #profile-picture img {
